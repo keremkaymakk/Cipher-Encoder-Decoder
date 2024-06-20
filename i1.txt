@@ -1,0 +1,6 @@
+Morse
+Encode
+Hi there, this is a test case!
+Trying...
+Trying more..!
+we love it765!??'
